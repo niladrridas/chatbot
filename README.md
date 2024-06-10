@@ -2,13 +2,16 @@
 
 This is a simple chatbot project built using Python and NLTK library. The chatbot is capable of engaging in conversation with users based on predefined patterns and responses. The algorithm used in this project, which relies on regular expressions for pattern matching and NLTK for preprocessing, is a fundamental and widely-used approach in natural language processing and chatbot development.
 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="32" height="32"/>
-<img src="https://miro.medium.com/v2/resize:fit:1184/format:webp/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" width="32" height="32"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="32" height="32"/>
-<img src="https://www.opc-router.com/wp-content/uploads/2023/12/icon_json-datei_format_1200-1-800x320.png" alt="JSON File" width="50" height="32"/>
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="32" height="32"/>
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="32" height="32"/>
-<img src="https://img.icons8.com/color/48/000000/console.png" alt="Bash" width="32" height="32"/>
+<div style="display: inline">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="32" height="32"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1184/format:webp/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" width="32" height="32"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="32" height="32"/>
+    <img src="https://www.opc-router.com/wp-content/uploads/2023/12/icon_json-datei_format_1200-1-800x320.png" alt="JSON File" width="50" height="32"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="32" height="32"/>
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="32" height="32"/>
+    <img src="https://img.icons8.com/color/48/000000/console.png" alt="Bash" width="32" height="32"/>
+</div>
+
 
 
 ## Installation
