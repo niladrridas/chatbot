@@ -1,0 +1,45 @@
+{
+    "pairs": [
+      [
+        "my name is (.*)",
+        ["Hello %1, How are you today ?"]
+      ],
+      [
+        "hi|hey|hello",
+        ["Hello", "Hey there"]
+      ],
+      [
+        "what is your name ?",
+        ["I'm a bot. I'm called Part-time Bot."]
+      ],
+      [
+        "(.*) (happy|glad|excited) (.*)",
+        ["That's great to hear", "%1 %2 %3? That's good!"]
+      ],
+      [
+        "i'm (.*) doing good",
+        ["Nice to hear that", "Alright, great !"]
+      ],
+      [
+        "(.*) age?",
+        ["I'm a bot, I don't have an age"]
+      ],
+      [
+        "what is the weather in (.*)?",
+        ["I'm sorry, I cannot provide weather information as I don't have access to the internet."]
+      ],
+      [
+        "(.*) (sports|game) ?",
+        ["I'm a bot, I don't have the ability to play or watch sports/games."]
+      ],
+      [
+        "who (.*) (president|prime minister)?",
+        ["I'm sorry, I cannot provide current world information as I don't have access to the internet."]
+      ],
+      [
+        "quit",
+        ["Bye. It was nice talking to you. See you soon :)"]
+      ]
+    ]
+  }
+  
